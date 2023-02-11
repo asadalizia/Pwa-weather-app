@@ -2,7 +2,7 @@
 
 (https://weather-by-asad.netlify.app/)
 
-![Weather Data](https://media.licdn.com/dms/image/C4D2DAQFS3-yFRjMmeg/profile-treasury-image-shrink_800_800/0/1673029616221?e=1675360800&v=beta&t=rZUbcbqsYbQVPw1fraHrLYTCOMQ_dQpQ1lqTEefjK3Y)
+![Screenshot 2022-12-30 230235](https://user-images.githubusercontent.com/110517543/218270209-b652c186-9462-4c43-8f70-0ae2c2090cca.png)
 
 ## More Details About
 
